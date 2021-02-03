@@ -1,12 +1,13 @@
 
-                                                                                               Basic Linux/Unix shell
-                                                                                               **********************
+                                                                        Basic Linux/Unix shell
+                                                                        
+                                                                        
 
 
 We have two implement two types of bash commands:
 
 1) Internal commands
-   *****************
+
 I had implemented five Internal commands like ‘cd’, ‘echo’, ‘history’, ‘pwd’ and ‘exit’.
 
 'cd' - Helps in changing current directory.
@@ -35,7 +36,7 @@ Flags Implemented:
 
 
 2) External commands
-   *****************
+ 
 I had implemented five External commands like ‘ls’, ‘cat’, ‘date’, ‘rm’ and ‘mkdir’.
 
 'ls' - Tells the name of all files/folders present in current directory sorted in ascending order. Case for ls for different directory in one command is also handled.
@@ -114,6 +115,8 @@ NOTE:
 Kindly remember to use '@' delemiter instead of space for passing name of files or text to be echoed.
 
 
-                                                                                                THANK YOU
-                                                                                                 THE END
-******************************************************************************************************************************************************************
+                                                                            THANK YOU
+                                                                             THE END
+                                                                             
+                                                                             
+                                                                             

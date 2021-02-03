@@ -91,21 +91,35 @@ Screenshots are present in 'Screenshots' folder.
 Sample inputs:
 
 ls 
+
 ls -l 
+
 mkdir 
+
 mkdir nik@1 
+
 rm -d nik@1 
+
 date 
+
 date cdmv 
+
 pwd 
+
 cd.. 
+
 cd .. 
+
 pwd 
+
 history 
+
 history -w 
+
 exit 
- 
+
 cat history.txt 
+
 exit 
 
 

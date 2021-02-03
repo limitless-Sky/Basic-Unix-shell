@@ -1,8 +1,7 @@
 
-                                                                  Basic Linux/Unix shell
-                                                                        
-                                                                        
-
+                                                            Basic Linux/Unix shell
+                                                            
+                                                            
 
 We have two implement two types of bash commands:
 
@@ -78,19 +77,19 @@ Implementation of external commands is done by fork() system call, creating chil
 
 
 Common Errors Handled:
-*********************
+
 1) Shows bash error for any wrong command except of above listed 10 implemented commands.
 2) Unknown flag error.
 3) Insufficient/Extra provided arguments to particular command.
 
 
 Testcase and Sceenshots:
-***********************
+
 Basic test case are also provided along with their output in the form of practical runnung by screenshots. Kindly refer to them for better understanding. 
 Screenshots are present in 'Screenshots' folder.
 
 Sample inputs:
--------------
+
 ls
 ls -l
 mkdir
@@ -111,12 +110,6 @@ exit
 
 
 NOTE:
-****
+
 Kindly remember to use '@' delemiter instead of space for passing name of files or text to be echoed.
-
-
-                                                                            THANK YOU
-                                                                             THE END
-                                                                             
-                                                                             
-                                                                             
+                                                  

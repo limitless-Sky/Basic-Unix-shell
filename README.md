@@ -3,7 +3,7 @@
                                                             
                                                             
 
-We have two implement two types of bash commands:
+I had implemented two types of bash commands:
 
 1) Internal commands
 
